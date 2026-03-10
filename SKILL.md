@@ -238,6 +238,7 @@ Also add `boundElements` to the connected shapes:
 - **[examples.md](examples.md)** - Complete working JSON examples you can use as templates
 - **[element-reference.md](element-reference.md)** - Full property reference for all element types
 - **[best-practices.md](best-practices.md)** - Design tips, color theory, typography guidelines
+- **[standalone-html-embedding.md](standalone-html-embedding.md)** - Embedding interactive Excalidraw diagrams in plain HTML files (no build system) via ESM CDN
 
 ## Quick Tips for Beautiful Diagrams
 
